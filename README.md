@@ -1,5 +1,18 @@
 # Pieces-GraphQL-tutorial
 
+## Setup instructions.
+1. Cloning the repo
+   ```bash
+   git clone https://github.com/Dev-Elie/Pieces-GraphQL-tutorial.git
+   cd Pieces-GraphQL-tutorial
+   ```   
+2. Installing dependencies
+   `npm install`
+3. Starting the server
+   `npm start`
+   
+Playground - https://studio.apollographql.com/sandbox/explorer
+
 ## Playground Queries & Mutations.
 
 ### 1. createEvent Operation
