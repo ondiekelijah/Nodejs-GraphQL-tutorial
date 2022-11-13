@@ -1,8 +1,8 @@
 # Pieces-GraphQL-tutorial
 
-# Playground Queries & Mutations.
+## Playground Queries & Mutations.
 
-1. createEvent Operation
+### 1. createEvent Operation
 
 ```GraphQL
 mutation {
@@ -28,7 +28,7 @@ mutation {
 }
 ```
 
-2. events Operation
+### 2. events Operation
 
 ```GraphQL
 query QueryEvents {
@@ -43,7 +43,7 @@ query QueryEvents {
 }
 ```
 
-3. event Operation
+### 3. event Operation
 
 ```GraphQL
 query QueryEvent($eventId: ID!) {
@@ -65,7 +65,7 @@ Variables
 }
 ```
 
-4. updateEvent Operation
+### 4. updateEvent Operation
 
 ```GraphQL
 
@@ -79,7 +79,7 @@ mutation {
 }
 ```
 
-5. deleteEvent Operation
+### 5. deleteEvent Operation
 ```GraphQL
 mutation {
   deleteEvent(id: "f6f205b1-1475-4ab8-8f42-804b477ca78a"
