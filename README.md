@@ -1,10 +1,10 @@
-# Pieces-GraphQL-tutorial
+# Node.js and GraphQL-tutorial
 
 ## Setup instructions.
 1. Cloning the repo
    ```bash
-   git clone https://github.com/Dev-Elie/Pieces-GraphQL-tutorial.git
-   cd Pieces-GraphQL-tutorial
+   git clone https://github.com/ondiekelijah/Nodejs-GraphQL-tutorial.git
+   cd Nodejs-GraphQL-tutorial
    ```   
 2. Installing dependencies
    `npm install`
